@@ -1,0 +1,13 @@
+name: main
+
+on: push
+  
+jobs:
+  build:
+    runs-on: macos-latest
+
+    strategy:
+      matrix:
+        node-version: [17.3]
+steps:
+  run: make lint

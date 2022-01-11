@@ -9,8 +9,7 @@ const loop = (count, name) => {
     const answer = readlineSync.question('Your answer:');
     const rightAnswer = num % 2 === 0 ? 'yes' : 'no';
     if (rightAnswer !== answer) {
-      console.log(`Let's try again, ${name}!`);
-      return loop(count, name);
+      return console.log(`${answer} is wrong answer ;(. Correct answer was ${rightAnswer}. Let's try again, ${name}!`);
     }
     console.log('Correct!');
   }

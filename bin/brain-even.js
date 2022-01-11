@@ -4,7 +4,7 @@ import readlineSync from 'readline-sync';
 const loop = (count, name) => {
   for (let i = 0; i <= count; i += 1) {
     const num = Math.floor(Math.random() * 100);
-    console.log(`Question:, ${num}!`);
+    console.log(`Question: ${num}`);
 
     const answer = readlineSync.question('Your answer:');
     const rightAnswer = num % 2 === 0 ? 'yes' : 'no';

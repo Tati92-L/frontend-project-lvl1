@@ -10,6 +10,9 @@ https://asciinema.org/a/V54yL25rTzNxTgPSeUYpZXDxs
 https://asciinema.org/a/VxnIdHQhrjbIMDFYCoetdrO0T
 ### Brain progression
 https://asciinema.org/a/3aYEUAtKqbPzold3TCQNCLmMf
+### Brain prime
+https://asciinema.org/a/NKVJbV8nyT0gCJULBGqdPb1eI
+
 
 
 

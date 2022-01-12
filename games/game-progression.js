@@ -26,7 +26,7 @@ const progresGame = (count = 2) => {
 
   for (let i = 0; i <= count; i += 1) {
     const [progresArray, rightAnswer] = arrayGenerator();
-    console.log(`Question: ${progresArray}`);
+    console.log(`Question: ${progresArray.join(' ')}`);
     const answer = readlineSync.question('Your answer:');
 
     if (!runCheck(name, Number(answer), rightAnswer)) {

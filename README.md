@@ -12,6 +12,8 @@ https://asciinema.org/a/VxnIdHQhrjbIMDFYCoetdrO0T
 https://asciinema.org/a/3aYEUAtKqbPzold3TCQNCLmMf
 ### Brain prime
 https://asciinema.org/a/NKVJbV8nyT0gCJULBGqdPb1eI
+### Brain example
+[![asciicast](https://asciinema.org/a/NKVJbV8nyT0gCJULBGqdPb1eI.png)](https://asciinema.org/a/NKVJbV8nyT0gCJULBGqdPb1eI)
 
 
 
